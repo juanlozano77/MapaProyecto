@@ -1,0 +1,80 @@
+/* Custom CSS for the map controls */
+#custom-controls {
+    padding: 10px;
+}
+
+#custom-controls button {
+    margin: 5px 0;
+}
+
+#map {
+    width: 100%;
+    height: 75vh;
+    margin: 0;
+    padding: 0;
+}
+.navbar-custom {
+    background-color: #0f6cbf;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-custom {
+    background-color: #0f6cbf;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.leaflet-bar.custom-button-group {
+    display: flex;
+    flex-direction: column;
+}
+#accordionExample{
+    z-index:1800;
+    position: absolute;
+    justify-content: end;
+    display: block;
+    right: 1px;
+}
+
+.containero{
+    margin-top: 0 !important;
+}
+#help-modal{
+    z-index: 1850;
+}
+
+#collapseTwo{
+    padding-right: 10px;
+}
+#custom-controls {
+    padding: 10px;
+}
+
+#custom-controls button {
+    margin: 5px 0;
+}
+#id-for-the-button2{
+    background-color: aqua;
+}
+#id-for-the-button3{
+    background-color: aqua;
+}
+#id-for-the-button{
+    background-color: aqua;
+}
+#id-for-the-button4{
+    background-color: aqua;
+}
+#help-modal2{
+    z-index:1900;
+}
+body{
+    background-color: #0f6cbf;
+}
+#offcanvasDetails{
+    background-color: #0f6cbf;
+}
+#offcanvasPuntosCercanos{
+    background-color: #0f6cbf;
+}
